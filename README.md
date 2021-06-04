@@ -14,7 +14,7 @@
 
 ⚠ Note : 
 
-Recruiters, please have in mind that most of my repos are private, and feel free to ask reading permission.
+Recruiters, please have in mind that most of my repos are private, and feel free to ask for a reading permission.
 
 <!--
 **pydevink/pydevink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
