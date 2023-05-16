@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 About Me : 
 <br>
-ℹ I am Backend/ Full-Stack Developer (Python & Django + JS), working and freelancing for more than 6 years.
+ℹ I am Backend Developer (Python & Django), working and freelancing for more than 6 years.
 
 <hr>
 🛠️ Skills : 
@@ -14,7 +14,7 @@
 
 ⚠ Note : 
 
-Recruiters, please have in mind that most of my repos are private, and feel free to ask for a reading permission.
+Please have in mind that most of my repos are private, and feel free to ask for a reading permission.
 
 <!--
 **pydevink/pydevink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
